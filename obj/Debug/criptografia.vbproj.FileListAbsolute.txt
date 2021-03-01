@@ -1,0 +1,44 @@
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\criptografia\bin\Debug\criptografia.exe
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\criptografia\bin\Debug\criptografia.pdb
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\criptografia\bin\Debug\criptografia.xml
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\criptografia\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\criptografia\obj\Debug\criptografia.Form1.resources
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\criptografia\obj\Debug\criptografia.Resources.resources
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\criptografia\obj\Debug\criptografia.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\criptografia\obj\Debug\criptografia.exe
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\criptografia\obj\Debug\criptografia.xml
+C:\Documents and Settings\Administrador\Configurações locais\Dados de aplicativos\Temporary Projects\criptografia\obj\Debug\criptografia.pdb
+C:\Documents and Settings\Administrador\Desktop\enigma\criptografia\criptografia\obj\Debug\criptografia.exe
+C:\Documents and Settings\Administrador\Desktop\enigma\criptografia\criptografia\obj\Debug\criptografia.xml
+C:\Documents and Settings\Administrador\Desktop\enigma\criptografia\criptografia\obj\Debug\criptografia.pdb
+C:\Documents and Settings\Administrador\Desktop\enigma\criptografia\criptografia\bin\Debug\criptografia.exe
+C:\Documents and Settings\Administrador\Desktop\enigma\criptografia\criptografia\bin\Debug\criptografia.pdb
+C:\Documents and Settings\Administrador\Desktop\enigma\criptografia\criptografia\bin\Debug\criptografia.xml
+C:\Documents and Settings\Administrador\Desktop\enigma\criptografia\criptografia\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Desktop\enigma\criptografia\criptografia\obj\Debug\criptografia.Form1.resources
+C:\Documents and Settings\Administrador\Desktop\enigma\criptografia\criptografia\obj\Debug\criptografia.Resources.resources
+C:\Documents and Settings\Administrador\Desktop\enigma\criptografia\criptografia\obj\Debug\criptografia.vbproj.GenerateResource.Cache
+I:\projetos\Enigma - Concluido - atualizavel\criptografia\criptografia\obj\Debug\criptografia.exe
+I:\projetos\Enigma - Concluido - atualizavel\criptografia\criptografia\obj\Debug\criptografia.xml
+I:\projetos\Enigma - Concluido - atualizavel\criptografia\criptografia\obj\Debug\criptografia.pdb
+I:\projetos\Enigma - Concluido - atualizavel\criptografia\criptografia\bin\Debug\criptografia.exe
+I:\projetos\Enigma - Concluido - atualizavel\criptografia\criptografia\bin\Debug\criptografia.pdb
+I:\projetos\Enigma - Concluido - atualizavel\criptografia\criptografia\bin\Debug\criptografia.xml
+I:\projetos\Enigma - Concluido - atualizavel\criptografia\criptografia\obj\Debug\ResolveAssemblyReference.cache
+I:\projetos\Enigma - Concluido - atualizavel\criptografia\criptografia\obj\Debug\criptografia.Form1.resources
+I:\projetos\Enigma - Concluido - atualizavel\criptografia\criptografia\obj\Debug\criptografia.Resources.resources
+I:\projetos\Enigma - Concluido - atualizavel\criptografia\criptografia\obj\Debug\criptografia.vbproj.GenerateResource.Cache
+C:\Users\micro\Google Drive\Projetos\Enigma - Concluido - Atualizavel\criptografia\criptografia\obj\Debug\criptografia.exe
+C:\Users\micro\Google Drive\Projetos\Enigma - Concluido - Atualizavel\criptografia\criptografia\obj\Debug\criptografia.xml
+C:\Users\micro\Google Drive\Projetos\Enigma - Concluido - Atualizavel\criptografia\criptografia\obj\Debug\criptografia.pdb
+C:\Users\bruno\Desktop\Nova pasta\Enigma - Concluido - Atualizavel\Enigma - Concluido - Atualizavel\criptografia\criptografia\bin\Debug\criptografia.exe
+C:\Users\bruno\Desktop\Nova pasta\Enigma - Concluido - Atualizavel\Enigma - Concluido - Atualizavel\criptografia\criptografia\bin\Debug\criptografia.pdb
+C:\Users\bruno\Desktop\Nova pasta\Enigma - Concluido - Atualizavel\Enigma - Concluido - Atualizavel\criptografia\criptografia\bin\Debug\criptografia.xml
+C:\Users\bruno\Desktop\Nova pasta\Enigma - Concluido - Atualizavel\Enigma - Concluido - Atualizavel\criptografia\criptografia\obj\Debug\criptografia.vbprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Nova pasta\Enigma - Concluido - Atualizavel\Enigma - Concluido - Atualizavel\criptografia\criptografia\obj\Debug\criptografia.Form1.resources
+C:\Users\bruno\Desktop\Nova pasta\Enigma - Concluido - Atualizavel\Enigma - Concluido - Atualizavel\criptografia\criptografia\obj\Debug\criptografia.Resources.resources
+C:\Users\bruno\Desktop\Nova pasta\Enigma - Concluido - Atualizavel\Enigma - Concluido - Atualizavel\criptografia\criptografia\obj\Debug\criptografia.vbproj.GenerateResource.cache
+C:\Users\bruno\Desktop\Nova pasta\Enigma - Concluido - Atualizavel\Enigma - Concluido - Atualizavel\criptografia\criptografia\obj\Debug\criptografia.vbproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Nova pasta\Enigma - Concluido - Atualizavel\Enigma - Concluido - Atualizavel\criptografia\criptografia\obj\Debug\criptografia.exe
+C:\Users\bruno\Desktop\Nova pasta\Enigma - Concluido - Atualizavel\Enigma - Concluido - Atualizavel\criptografia\criptografia\obj\Debug\criptografia.xml
+C:\Users\bruno\Desktop\Nova pasta\Enigma - Concluido - Atualizavel\Enigma - Concluido - Atualizavel\criptografia\criptografia\obj\Debug\criptografia.pdb
